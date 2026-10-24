@@ -1,0 +1,28 @@
+{"id": "ar01", "question": "كام يوم الإجازة السنوية؟", "source": "hr_policy_ar.pdf", "page": 2, "keywords": ["21"]}
+{"id": "ar02", "question": "الإجازة السنوية بتزيد لكام يوم ولمين؟", "source": "hr_policy_ar.pdf", "page": 2, "keywords": ["30", "عشر"]}
+{"id": "ar03", "question": "أقدر أرحّل كام يوم من إجازتي للسنة الجاية؟", "source": "hr_policy_ar.pdf", "page": 2, "keywords": ["سبعه"]}
+{"id": "ar04", "question": "الإجازة المرضية بتتصرف بأجر كامل لمدة قد إيه؟", "source": "hr_policy_ar.pdf", "page": 2, "keywords": ["شهر"]}
+{"id": "ar05", "question": "مدة إجازة الوضع كام؟", "source": "hr_policy_ar.pdf", "page": 2, "keywords": ["اربعه"]}
+{"id": "ar06", "question": "فترة الاختبار للموظف الجديد قد إيه؟", "source": "hr_policy_ar.pdf", "page": 1, "keywords": ["ثلاثه"]}
+{"id": "ar07", "question": "ينفع أشتغل من البيت كام يوم في الأسبوع؟", "source": "hr_policy_ar.pdf", "page": 1, "keywords": ["يومين"]}
+{"id": "ar08", "question": "مواعيد الشغل بتبدأ وتخلص إمتى؟", "source": "hr_policy_ar.pdf", "page": 1, "keywords": ["التاسعه", "الخامسه"]}
+{"id": "ar09", "question": "المرتبات بتنزل يوم كام في الشهر؟", "source": "hr_policy_ar.pdf", "page": 3, "keywords": ["الخامس والعشرين"]}
+{"id": "ar10", "question": "الشركة بتدفع كام للتدريب في السنة؟", "source": "hr_policy_ar.pdf", "page": 3, "keywords": ["15"]}
+{"id": "ar11", "question": "لو عايز أستقيل لازم أبلغهم قبلها بقد إيه؟", "source": "hr_policy_ar.pdf", "page": 3, "keywords": ["شهرين"]}
+{"id": "ar12", "question": "رقم تحويلة الموارد البشرية كام؟", "source": "hr_policy_ar.pdf", "page": 3, "keywords": ["204"]}
+{"id": "en01", "question": "How long is the initial term of the agreement?", "source": "service_agreement_en.pdf", "page": 1, "keywords": ["18 months"]}
+{"id": "en02", "question": "How much notice is needed to stop the automatic renewal?", "source": "service_agreement_en.pdf", "page": 1, "keywords": ["60 days"]}
+{"id": "en03", "question": "What is the monthly fee?", "source": "service_agreement_en.pdf", "page": 2, "keywords": ["2,500"]}
+{"id": "en04", "question": "What interest is charged on late payments?", "source": "service_agreement_en.pdf", "page": 2, "keywords": ["1.5%"]}
+{"id": "en05", "question": "What uptime does the provider guarantee?", "source": "service_agreement_en.pdf", "page": 2, "keywords": ["99.5%"]}
+{"id": "en06", "question": "What is the maximum service credit the client can get?", "source": "service_agreement_en.pdf", "page": 2, "keywords": ["25%"]}
+{"id": "en07", "question": "How fast must a critical incident get a first response?", "source": "service_agreement_en.pdf", "page": 2, "keywords": ["1 hour"]}
+{"id": "en08", "question": "How long are chat logs kept?", "source": "service_agreement_en.pdf", "page": 3, "keywords": ["90 days"]}
+{"id": "en09", "question": "Within how many hours must a data breach be reported?", "source": "service_agreement_en.pdf", "page": 3, "keywords": ["48"]}
+{"id": "en10", "question": "Where are disputes settled?", "source": "service_agreement_en.pdf", "page": 3, "keywords": ["Cairo Regional Centre"]}
+{"id": "x01", "question": "How many days of annual leave does an employee get?", "source": "hr_policy_ar.pdf", "page": 2, "keywords": ["21"]}
+{"id": "x02", "question": "العقد مدته قد إيه؟", "source": "service_agreement_en.pdf", "page": 1, "keywords": ["18"]}
+{"id": "na01", "question": "هل الشركة بتوفر تأمين طبي للعيلة؟", "answerable": false}
+{"id": "na02", "question": "مين المدير التنفيذي للشركة؟", "answerable": false}
+{"id": "na03", "question": "What is the client's bank account number?", "answerable": false}
+{"id": "na04", "question": "Does the provider offer a mobile app?", "answerable": false}
