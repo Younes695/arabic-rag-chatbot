@@ -4,6 +4,8 @@ Upload PDFs, ask questions in Arabic (including Egyptian dialect) or English, an
 
 Built with Python, Google Gemini, hybrid search (BM25 + embeddings) and Streamlit.
 
+![The app answering an English and an Arabic question, with the cited page opened](docs/screenshot.webp)
+
 ## Features
 
 - **Cited answers.** Each sentence cites a numbered source, and the UI shows the file, page and passage behind it.

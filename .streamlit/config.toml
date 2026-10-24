@@ -1,0 +1,6 @@
+[client]
+# Hide the developer toolbar (Deploy button) from visitors.
+toolbarMode = "minimal"
+
+[theme]
+base = "dark"
